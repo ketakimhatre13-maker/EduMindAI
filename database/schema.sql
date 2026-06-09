@@ -1,0 +1,2 @@
+-- EduMindAI database schema placeholder
+-- Add tables or migrations here as needed
